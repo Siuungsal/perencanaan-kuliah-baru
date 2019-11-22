@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">Perencanaan Kuliah</string>
+    <string name="nama">Nama</string>
+    <string name="angkatan">Angkatan</string>
+    <string name="before">Before We Started</string>
+    <string name="progress">Progress Perkuliahan</string>
+    <string name="milestone">Milestone Perkuliahan</string>
+    <string name="perencanaan">Perencanaan 8 Semester</string>
+    <string name="semester1">Semester 1</string>
+    <string name="semester2">Semester 2</string>
+    <string name="semester3">Semester 3</string>
+    <string name="semester4">Semester 4</string>
+    <string name="semester5">Semester 5</string>
+    <string name="semester6">Semester 6</string>
+    <string name="semester7">Semester 7</string>
+    <string name="semester8">Semester 8</string>
+
+    <string-array name="numbers">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+    </string-array>
+
+    <string-array name="numbers1">
+        <item>Six</item>
+        <item>Seven</item>
+        <item>Eight</item>
+        <item>Nine</item>
+        <item>Ten</item>
+    </string-array>
+
+    <string-array name="wajibGanjil">
+        <item>Mata Kuliah Wajib</item>
+        <item>Pemrograman Dasar</item>
+        <item>Manajemen dan Organisasi</item>
+        <item>Bahasa Inggris</item>
+        <item>Matematika Komputasi</item>
+        <item>Pengantar Ilmu Komputer</item>
+        <item>Pancasila</item>
+        <item>Dasar Basis Data</item>
+        <item>Jaringan Komputer</item>
+        <item>Dasar Desain Antarmuka Pengguna</item>
+        <item>Algoritma dan Struktur Data</item>
+        <item>Dasar Pengembangan Sistem Informasi</item>
+        <item>Pemodelan Proses Bisnis</item>
+        <item>Implementasi dan Pengujian Sistem Informasi</item>
+        <item>Tata Kelola Teknologi Informasi</item>
+        <item>Data Warehouse</item>
+        <item>Sistem Enterprise</item>
+        <item>Kewirausahaan</item>
+        <item>Praktik Kerja Lapang</item>
+        <item>Etika Profesi Teknologi Informasi</item>
+
+    </string-array>
+
+    <string-array name="wajibGenap">
+        <item>Mata Kuliah Wajib</item>
+        <item>Pemrograman Lanjut</item>
+        <item>Bahasa Indonesia</item>
+        <item>Sistem Operasi</item>
+        <item>Interaksi Manusia dan Komputer</item>
+        <item>Sistem Bisnis Fungsional</item>
+        <item>Arsitektur dan Organisasi Komputer</item>
+        <item>Administrasi Basis Data</item>
+        <item>Pemrograman Aplikasi Berbasis Web</item>
+        <item>Analisis dan Desain Sistem Informasi</item>
+        <item>Statistika</item>
+        <item>Desain Interaksi dan Antarmuka Pengguna</item>
+        <item>Agama</item>
+        <item>Metodologi Penelitian Teknologi Informasi</item>
+        <item>Manajemen Proyek Sistem Informasi</item>
+        <item>Perencanaan Strategis Sistem Informasi</item>
+        <item>Evaluasi dan Audit Sistem Informasi</item>
+        <item>Kewarganegaraan</item>
+        <item>Skripsi</item>
+
+    </string-array>
+
+    <string-array name="pilihanGanjil">
+        <item>Mata Kuliah Pilihan</item>
+        <item>Basis Data Terdistribusi</item>
+        <item>Sistem Pendukung Keputusan</item>
+        <item>Pengembangan Berorientasi Penggunaan Ulang</item>
+        <item>Pengembangan Aplikasi Perangkat Bergerak</item>
+        <item>Pengantar Geo Informasi</item>
+        <item>Sistem Informasi Geografis Dasar 2</item>
+        <item>Manajemen Hubungan Pelanggan</item>
+        <item>Enterprise Architecture</item>
+        <item>Kapita Selekta Sistem Informasi</item>
+        <item>Sistem Informasi Geografis Lanjut</item>
+
+    </string-array>
+
+    <string-array name="pilihanGenap">
+        <item>Mata Kuliah Pilihan</item>
+        <item>Kecerdasan Bisnis</item>
+        <item>Manajemen Layanan Teknologi Informasi</item>
+        <item>Pola-pola Perancangan</item>
+        <item>Sistem Informasi Geografis Dasar 1</item>
+        <item>Evaluasi Pengalaman dan Antarmuka Pengguna</item>
+        <item>Manajemen Rantai Suplai</item>
+        <item>Manajemen Resiko</item>
+        <item>Manajemen Produk</item>
+        <item>Pemrograman Basis Data</item>
+        <item>Data Mining</item>
+
+    </string-array>
+</resources>
